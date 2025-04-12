@@ -2,7 +2,9 @@
 
 This project demonstrates a complete end-to-end machine learning pipeline for binary classification. The goal is to predict whether a loan applicant is likely to be approved based on various demographic,
 financial, and personal attributes. Through exploratory data analysis, model comparison, and evaluation, the project identifies the most impactful predictors and selects the most accurate model to support informed decision-making in real-world financial scenarios.
-Problem Statement
+
+**Problem Statement**
+
 Financial institutions receive thousands of loan applications every day. Automating the process of predicting whether a loan should be approved or not can help banks:
 - Minimize financial risk.
 - Speed up the loan approval process.
